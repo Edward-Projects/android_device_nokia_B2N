@@ -1,4 +1,4 @@
-# Firmware - from PL2_sprout (QKQ1.190828.002) - (OTA Image).
+# Firmware - from B2N_sprout (QKQ1.190828.002) - (OTA Image).
 
 abl.img;AB
 bluetooth.img;AB
